@@ -1,0 +1,38 @@
+h1 {
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: underline;
+    color: white;
+}
+
+p {
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.body_background{
+    background-image:url(https://images4.alphacoders.com/659/659402.jpg);
+}
+
+h3{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+label{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr{
+    width: 450px;
+}
+
+button{
+    background-color: rgb(93, 215, 255);
+    color:white;
+    width: 200px;
+    height: 30px;
+}
