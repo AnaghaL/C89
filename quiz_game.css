@@ -36,3 +36,27 @@ button{
     width: 200px;
     height: 30px;
 }
+
+#output
+{
+    background:white;
+    border-radius: 10px;
+    border-top: 10 px solid darkmagenta;
+    padding:10px;
+    float:none;
+    text-align: left;
+}
+
+#game_page_body
+{
+  background-image: url(https://wallpapercave.com/wp/wp4247354.jpg);
+
+}
+
+h2
+{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
