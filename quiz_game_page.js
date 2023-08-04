@@ -37,15 +37,15 @@ function check()
     {
         if(answer_turn == "player1")
         {
-            update_player1_score = player1_score + 1;
-            document.getElementById("player1_score").innerHTML = update_player1_score;    
+            player1_score = player1_score + 1;
+            document.getElementById("player1_score").innerHTML = player1_score;    
             document.getElementById("player1_name").innerHTML = player1_name + " : " ;
             document.getElementById("player2_name").innerHTML = player2_name + " : " ;        
         }
         else
         {
-            update_player2_score = player2_score + 1;
-            document.getElementById("player2_score").innerHTML = update_player2_score;
+            player2_score = player2_score + 1;
+            document.getElementById("player2_score").innerHTML = player2_score;
             document.getElementById("player1_name").innerHTML = player1_name + " : " ;
             document.getElementById("player2_name").innerHTML = player2_name + " : " ;
         }
