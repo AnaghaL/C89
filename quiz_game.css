@@ -60,3 +60,23 @@ h2
     text-decoration: underline;
 }
 
+#player1_name
+{
+    color: white;
+}
+
+#player2_name
+{
+    color: white;
+}
+
+#player1_score
+{
+    color: white;
+}
+
+#player2_score
+{
+    color: white;
+}
+
